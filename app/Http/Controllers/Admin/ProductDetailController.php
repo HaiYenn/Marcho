@@ -4,8 +4,7 @@ namespace App\Http\Controllers\Admin;
 use App\Models\ProductDetail;
 use App\Models\Product;
 use App\Models\Image;
-use App\Models\Category;
-// abc
+use App\Models\Category; 
 use App\Models\Color;
 use App\Models\Size;
 use Illuminate\Http\Request;
