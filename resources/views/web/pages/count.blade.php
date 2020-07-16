@@ -1,0 +1,3 @@
+<span>
+	{{$wishlist}}
+</span>

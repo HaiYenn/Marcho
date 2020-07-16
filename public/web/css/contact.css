@@ -1,0 +1,70 @@
+.contact .button{
+	color: #ffffff;
+    background: #e7ab3c;
+    border: 1px solid #e7ab3c;
+    font-size: 14px;
+    font-weight: 700;
+}
+.contact_form .contact .form-control,
+textarea{
+	border: 1px solid #ebebeb;
+    padding: 25px 20px;
+    margin-bottom: 15px;
+    background-color: #F1EEED;
+    border-radius: 0px;
+}
+.items{
+	background: #ffffff;
+    margin-bottom: 11px;
+    box-shadow: 0px 8px 35px 10px #E8E8E8;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+}
+/* .icon{
+	float: left;
+    margin: 12px;
+} */
+.contact_form h3{
+	font-weight: 600;
+}
+.contact_form p{
+	color: #636363;
+	font-size: 16px;
+}
+.contact_form{
+/*     border: solid 1px; */
+    padding-top: 60px;
+    box-shadow: -1px 5px 10px 6px #E7E4E3;
+}
+.form-control{
+    margin-bottom: 30px
+}
+.submid_contact{
+    width: 220px;
+    height: 60px;
+    background-color: red;
+    color: #fff;
+    margin-bottom: 60px;
+    border: solid 0px;
+}
+.contact_ct{
+    margin: 45px 0px 10px;
+}
+.contact_img{
+    float: left;
+    margin-top: -10px;
+    box-shadow: -1px 5px 10px 6px #E7E4E3;
+    margin-right: 12px;
+}
+.item-btn{
+    background-color: #fff;
+}
+.map-class{
+    order:0;
+     margin-bottom: 115px;
+}
+.contact-p{
+    text-align: justify;
+}

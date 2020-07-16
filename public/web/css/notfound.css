@@ -1,0 +1,69 @@
+@font-face {
+ font-family:tahoma;
+ src:url('../font/tahoma/TAHOMA.TTF') format('truetype'),
+ url('../font/tahoma/TAHOMA.TTF') format('embedded-opentype'),
+ url('../font/tahoma/TAHOMA.TTF') format('woff');
+ font-weight:normal;
+ font-style:normal;
+}
+@font-face {
+	font-family: roboto;
+	src:url('../font/roboto/Roboto-Regular.ttf');
+}
+@font-face {
+	font-family: times new roman;
+	src:url('../font/timesnewroman/font-times-new-roman.ttf');
+}
+@font-face {
+	font-family: quicksand;
+	src:url('../font/quicksand/Quicksand-VariableFont_wght.ttf');
+}
+.text-false{
+	color: #28384f;
+	font-size: 48px;
+	font-family: roboto;
+	font-weight: bold;
+	padding-top: 115px;
+}
+.img-false{
+    width: 100%;
+    object-fit: cover;
+}
+.text-false2{
+	color:#8d8d8d;
+	font-size: 16px;
+	font-family: times new roman;
+	width: 100%;
+	padding-top: 10px;
+
+
+}
+.btn-backhome{
+  background: #fe3e57;
+  color:#fff;
+  text-transform: uppercase;
+  width:30%;
+  border-radius: 0;
+  padding: 10px;
+  text-decoration: none !important;
+  color:#fff !important;
+
+}
+.btn-backhome a {
+   text-decoration: none !important;
+  color:#fff !important;
+}
+
+@media (max-width: 334px){
+	.btn-backhome{
+		width: 50% !important;
+		text-align: center !important;
+	}
+	
+}
+@media (max-width: 426px ) and (min-width: 374px){
+	.btn-backhome{
+		width: 50% !important;
+		text-align: center !important;
+	}
+}

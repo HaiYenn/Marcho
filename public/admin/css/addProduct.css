@@ -1,0 +1,26 @@
+/*.panel-heading h3{
+ font-weight: bold;
+ text-align: center;
+}
+.form-group{
+	padding-top: 25px;
+}
+
+.form-group label{
+	font-size:18px;
+	margin-right: 55px;
+} 
+.btn.btn-primary{
+	margin-top: 25px;
+	border-radius: 0;
+	float:left;
+	padding-top: 10px;
+	margin-bottom: 25px;
+}
+.form-control{
+	width:50%;
+}
+.panel-body{
+	padding-left: 35% !important;
+}
+*/

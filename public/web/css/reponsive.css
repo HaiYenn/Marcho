@@ -1,0 +1,35 @@
+@media (max-width: 767px) {
+  .menu-top{
+  	display: none;
+
+  }
+  .icon-toggle{
+  	display:block;
+  }
+}
+@media only screen and (max-width: 375px) {
+.colum-1 a {
+   
+    font-size: 12px;
+
+}
+.colum-2 a {
+   
+    font-size: 12px;
+
+}
+.colum-3 a {
+    font-size: 12px;
+}
+}
+@media only screen and (max-width: 375px) {
+.colum-1 {
+   
+    padding-right: 48px;
+
+}
+
+.colum-3 {
+    padding-right: 0px;
+}
+}
